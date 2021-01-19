@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.1.13/miui_APOLLO_21.1.13_41fd6655c3_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/21.1.13/miui_PICASSO_21.1.13_f88ad0004d_11.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
